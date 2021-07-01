@@ -45,7 +45,6 @@ INSERT INTO `todo` (`ID`, `name`, `surname`, `day`, `activity`) VALUES
 (38, '', '', 'monday', ''),
 (41, 'Marianna ', '', '', ''),
 (47, '', '', '', ''),
-(48, 'Marianna Natale', 'de marco', 'monday', ''),
 (49, 'giovanni', '', '', ''),
 (51, 'giovanni', '', '', ''),
 (54, 'pasquale', '', '', ''),
@@ -53,7 +52,6 @@ INSERT INTO `todo` (`ID`, `name`, `surname`, `day`, `activity`) VALUES
 (57, 'marcello', '', '', ''),
 (59, 'marcello ', 'de marco', 'wednesday', 'soccer'),
 (60, 'pasquale', '', '', ''),
-(62, 'Marcello', 'Rogly', 'Friday', 'Hockey'),
 (63, 'giovanni', 'kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkooooo', 'monday', 'basket');
 
 --

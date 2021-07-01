@@ -62,7 +62,8 @@ if(isset($_GET['edit'])) {
        // $update = true;
     //}
     }
-//update
+
+//update button
 
 if(isset($_POST['update'])){
     //$update = true;

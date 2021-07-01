@@ -34,7 +34,7 @@
  $mysqli = new mysqli ('localhost', 'root', '', 'todolist') or die (mysqli_error(mysqli));
  $result = $mysqli->query("SELECT * FROM todolist.todo") or die ($mysqli->error);
 ?>
-<div class="container row" mb-3>
+<div class="container row mb-3">
 <h1>WEEKLY TO DO LIST</h1><hr><br>
     <form action="./includes/form.php" method="POST">
     <input type="hidden" name="ID" value="<?php echo $id; ?>">
